@@ -25,11 +25,3 @@ After updating to version 41.x, we started encountering the following error for 
 ## Expected behavior
 
 We aim to understand the root cause of this error and eliminate it.
-
-## Additional information
-
-We have included a test project to replicate the issue locally. The problem also occurs in this environment.
-
-- **Configuration Files**: Please use the files located in the `renovate_config` folder. These configurations closely mirror our original setup to ensure accurate testing.
-  
-- **Confidentiality**: All private and corporate information has been carefully removed to maintain confidentiality.
